@@ -8,6 +8,7 @@
 * 删除自动保存
 
 更多说明详见演示工作流
+
 原版：https://github.com/bedovyy/ComfyUI_NAIDGenerator
 
 ---
