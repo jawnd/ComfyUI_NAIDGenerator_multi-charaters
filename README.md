@@ -1,0 +1,2 @@
+# comfyui_naidgenerator_multi-charaters
+修改了原版naidgenerator的部分功能，加了一些节点
